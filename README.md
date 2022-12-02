@@ -1,7 +1,7 @@
 # Javascript
 
 
-# :pushpin: goQuality
+# :pushpin: 혼자서 해보는 자바스크립트
 > Vanilla JavaScript Couse 및 Javascript 공부한 것 올리기
 
 </br>
